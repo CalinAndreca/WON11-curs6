@@ -10,6 +10,6 @@ public class MainBottle {
         System.out.println("Drinking 200 ml: " + bottle.drink(200));
         System.out.println("Drinking 300 ml: " + bottle.drink(300));
         System.out.println("Closing bottle: " + bottle.close());
-        System.out.println("Bottle is closed: " + bottle.close());
+        System.out.println("Check if the bottle is closed: " + bottle.close());
     }
 }
