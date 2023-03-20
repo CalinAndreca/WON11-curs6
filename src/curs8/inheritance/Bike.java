@@ -1,7 +1,7 @@
 package curs8.inheritance;
 
 public class Bike {
-    private int tyrePressure;
+    protected int tyrePressure;
     private int speed;
     private static int maxPressure = 10;
 

@@ -5,10 +5,10 @@ public class MountainBike extends Bike{
 
     public MountainBike(){
         super(6);
-
     }
 
     public int getSuspensionStrength() {
+        this.tyrePressure = 0;
         return suspensionStrength;
     }
 
