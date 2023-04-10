@@ -3,7 +3,6 @@ package org.fasttrackit.homeworkcurs10.exercitiu1;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -30,8 +29,13 @@ public class Main {
             System.out.println(classroom.getAverageGrade("Computer Science"));
             System.out.println(classroom.getMaxGrade("History"));
 
-        } finally {
+            ReportGenerator reportGenerator = new ReportGenerator(studentGrades);
+            reportGenerator.generateReport();
+        } catch (IOException e) {
+            System.out.println("Error reading from file: " + e.getMessage());
+        }
 
         }
+
     }
-}
+

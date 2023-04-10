@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d23ae41e-842b-4010-9c31-eca541716887" name="Changes" comment="Curs10">
-      <change afterPath="$PROJECT_DIR$/files/grades.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercitiu1/Classroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercitiu1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercitiu1/StudentGrade.java" afterDir="false" />
+    <list default="true" id="d23ae41e-842b-4010-9c31-eca541716887" name="Changes" comment="Homework10">
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercitiu1/ReportGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -291,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680631874402</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Homework10">
+      <created>1681136653869</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681136653869</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Homework10">
+      <created>1681136670776</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1681136670776</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -322,6 +333,7 @@
     <MESSAGE value="Curs8" />
     <MESSAGE value="Homerworkcurs9" />
     <MESSAGE value="Curs10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curs10" />
+    <MESSAGE value="Homework10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework10" />
   </component>
 </project>
