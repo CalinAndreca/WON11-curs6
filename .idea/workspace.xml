@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d23ae41e-842b-4010-9c31-eca541716887" name="Changes" comment="Homework10">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/homeworkcurs10/exercitiu1/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs11/MapExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +42,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.fasttrackit.homeworkcurs10.exercitiu1.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fastrackit.homeworkcurs9.exercise2.Main" />
+  <component name="RunManager" selected="Application.MapExercise">
+    <configuration name="MapExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.fasttrackit.curs11.MapExercise" />
       <module name="Curs6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fastrackit.homeworkcurs9.exercise2.*" />
+          <option name="PATTERN" value="org.fasttrackit.curs11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapExercise" />
         <item itemvalue="Application.org.fasttrackit.homeworkcurs10.exercitiu1.Main" />
         <item itemvalue="Application.WritingToFile" />
         <item itemvalue="Application.ReadingFromFile" />
         <item itemvalue="Application.fastrackit.homeworkcurs9.exercise3.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681136670776</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Homework10">
+      <created>1681137788355</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1681137788355</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
