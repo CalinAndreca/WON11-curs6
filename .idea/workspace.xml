@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d23ae41e-842b-4010-9c31-eca541716887" name="Changes" comment="Homework10">
-      <change afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs11/MapExercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/fasttrackit/curs11/MapExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/fasttrackit/curs11/MapExercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681137788355</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Homework10">
+      <created>1681231486563</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681231486563</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
